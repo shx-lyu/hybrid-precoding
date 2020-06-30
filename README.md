@@ -1,6 +1,7 @@
 # What it does
 The main function that draws the spectral efficiency versus SNR via
-different algorithms; The setting is in mmWave hybrid precoding using finite-resolution PSs.
+different algorithms.
+The setting is in mmWave hybrid precoding using finite-resolution PSs.
 
 # Major algorithms
  1. the alternating minimization+SIC method
@@ -13,5 +14,7 @@ ref: Z. Wang, M. Li, Q. Liu, and A. L. Swindlehurst, “Hybrid precoder and comb
 
 # Author information
 Author  : Shanxiang Lyu(shanxianglyu@gmail.com)
+
 Homepage: https://xxxy2016.jnu.edu.cn/Item/3636.aspx
+
 Date    : 2020-June
