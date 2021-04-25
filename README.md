@@ -5,9 +5,9 @@ different algorithms.
 The setting is in mmWave hybrid precoding using finite-resolution PSs.
 
 # Major algorithms
-1. the alternating minimization+SIC method.
+1. the lattice-based alternating minimization+Babai(SIC) method.
  
- ref: S. Lyu et.al., arxiv: Revisiting Hybrid Precoding of mmWave Massive MIMO from the Viewpoint of Lattices
+ ref: Shanxiang Lyu;Zheng Wang;Zhen Gao;Hongliang He;Lajos Hanzo,"Lattice-Based mmWave Hybrid Beamforming", IEEE Transactions on Communications,2021
 
 2. the alternating minimization+CDM method 
 
@@ -20,8 +20,10 @@ The setting is in mmWave hybrid precoding using finite-resolution PSs.
 4. the fully digital method
 
 # Author information
-Author  : Shanxiang Lyu(shanxianglyu@gmail.com)
-
-Homepage: https://xxxy2016.jnu.edu.cn/Item/3636.aspx
+Author: Shanxiang Lyu
+Associate Professor, Jinan University, Guangzhou
+Email: shanxianglyu@gmail.com
+Homepage: https://sites.google.com/view/shanx
+https://xxxy2016.jnu.edu.cn/Item/3636.aspx
 
 Date    : 2020-June
