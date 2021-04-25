@@ -21,9 +21,13 @@ The setting is in mmWave hybrid precoding using finite-resolution PSs.
 
 # Author information
 Author: Shanxiang Lyu
+
 Associate Professor, Jinan University, Guangzhou
+
 Email: shanxianglyu@gmail.com
+
 Homepage: https://sites.google.com/view/shanx
+
 https://xxxy2016.jnu.edu.cn/Item/3636.aspx
 
 Date    : 2020-June
