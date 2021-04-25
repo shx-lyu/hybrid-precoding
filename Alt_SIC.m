@@ -1,6 +1,6 @@
-% the function of  alternating minimization+SIC proposed by:
-% S. Lyu et.al., arxiv: Revisiting Hybrid Precoding of mmWave Massive MIMO from the Viewpoint of Lattices
-% Author  : Shanxiang Lyu(shanxianglyu@gmail.com)
+% lattice-based alternating minimization+Babai(SIC) method
+% ref: Shanxiang Lyu, Zheng Wang, Zhen Gao, Hongliang He, Lajos Hanzo, "Lattice-Based mmWave Hybrid Beamforming", IEEE Transactions on Communications,2021
+% Author  : Shanxiang Lyu (shanxianglyu@gmail.com, https://sites.google.com/view/shanx)
 % Date    : 2020-June
 
 function [ FRF, FBB ] = Alt_SIC(Fopt,cons,NRF,iter)
