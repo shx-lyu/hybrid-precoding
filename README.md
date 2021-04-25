@@ -7,7 +7,9 @@ The setting is in mmWave hybrid precoding using finite-resolution PSs.
 # Major algorithms
 1. the lattice-based alternating minimization+Babai(SIC) method.
  
- ref: Shanxiang Lyu, Zheng Wang, Zhen Gao, Hongliang He, Lajos Hanzo, "Lattice-Based mmWave Hybrid Beamforming", IEEE Transactions on Communications,2021
+ ref: Shanxiang Lyu, Zheng Wang, Zhen Gao, Hongliang He, Lajos Hanzo, "Lattice-Based mmWave Hybrid Beamforming", IEEE Transactions on Communications, 2021.
+ 
+ https://ieeexplore.ieee.org/document/9411813
 
 2. the alternating minimization+CDM method 
 
@@ -15,7 +17,7 @@ The setting is in mmWave hybrid precoding using finite-resolution PSs.
 
 3. the WLLB method 
 
- ref: Z. Wang, M. Li, Q. Liu, and A. L. Swindlehurst, “Hybrid precoder and combiner design with low-resolution phase shifters in mmwave MIMO systems,” J. Sel. Topics Signal Processing, vol. 12, no. 2, pp. 256–269, 2018
+ ref: Z. Wang, M. Li, Q. Liu, and A. L. Swindlehurst, “Hybrid precoder and combiner design with low-resolution phase shifters in mmwave MIMO systems,” J. Sel. Topics Signal Processing, vol. 12, no. 2, pp. 256–269, 2018.
 
 4. the fully digital method
 
